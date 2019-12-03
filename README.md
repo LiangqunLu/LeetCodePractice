@@ -45,27 +45,47 @@ Your ideas/fixes/algorithms are more than welcome!
 
 ### LC Question and Solution List
 
-|  #  |      Title     |   Solutions   | Time Ref | Space Ref |    Algorithms    |Difficulty| Tags
+|  #  |      Title     |   Solutions   | Time Ref| Space Ref|    Algorithms    |Difficulty| Tags
 |-----|----------------|---------------|------|-------|--------------|----------|--------
-|20|[Valid Parentheses    ](https://leetcode.com/problems/valid-parentheses/)|[Solution](./Solutions/20.md) | O(n) | O(1) | Stack |Easy| -- |
-|328|[Odd Even Linked List    ](https://leetcode.com/problems/odd-even-linked-list)|[Solution](./Solutions/328.md) | O(n) | O(1) | Linked List |Medium| -- |
-|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Solution]() | O(n) |O(1) |hash table |Easy|
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() || -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() || -- |-- | |Easy|--
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Solution](./Solutions/998.md) || -- |-- | |Medium|--
+|944|[Delete Columns to Make Sorted    ](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Solution](./Solutions/944.md) | -- | -- |  |Medium|Greedy|
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() || -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|--|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | -- |-- | |Easy|--
+|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[Solution](Solutions/1005.md) | -- |-- | |Easy|--
+|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Solution](Solutions/874.md) | -- |-- | |Easy|--
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Solution]() | O(?) |O(?) | |Hard | DP
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution]() | O(logn) | O(1) | binary search standard |Easy| Binary Search
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./Solutions/814.md) | O(n) | O(n) | 递归数 |Medium| recursion, DFS 
+|---|[Good Luck]()|---| ---|--- | |---| --
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Solution](/Solutions/671.md) | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Solution]() | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
+|506|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
+|505|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
+|504|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
+|503|[---](https://leetcode.com/problems/perfect-number/)|[Solution]() | O(sqrt(n)) |O(1) | 循环公约数 |Easy| Math
+|---|[Good Luck]()|---| ---|--- | |---| --
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Solution]() | O(nlogn) |O(n) | |Hard| Heap, Greedy
 |501|[Find Mode in Binary Tree](https://leetcode.com/problems/find-mode-in-binary-tree/)|[Solution]() | O(n) |O(k) | |Easy| Binary Tree
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Solution]() | O(n) |O(1) |hash table |Easy|
+|---|[Good Luck]()|---| ---|--- | |---| --
 |499|[The Maze III](https://leetcode.com/problems/the-maze-iii/)|[Solution]() | O(m*n) |O(m*n) | |Hard| BFS
-|496|[Next Greater Element I](https://leetcode.com/problems/parents-greater-element-i/)|[Solution]() | O(n*m) |O(1) | |Easy|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution]() | O(m*n) |O(1) | |Medium| 
+|496|[Next Greater Element I](https://leetcode.com/problems/parents-greater-element-i/)|[Solution]() | O(n*m) |O(1) | |Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Solution]() | O(n) |O(1) | |Medium| Array
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution]() | O(2^n) |O(1) | |Medium| 
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Solution]() | O(nlogn) |O(1) | |Hard| Recursion
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Solution]() | O(n) |O(1) | |Easy| Array
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Solution]() | O(n!) |O(n) | |Medium| Backtracking, DFS
 |490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution]() | O(m*n) |O(m*n) | |Medium| BFS
+|489|[Robot Room Cleaner]()|---| ---|--- | |---| --
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/)|[Solution]() | O(?) |O(?) | |Hard | DFS, Backtracking
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Solution]() | O(n) |O(n) | |Medium| Array
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Solution]() | O(2^n) |O(n^2) || Medium | DP
@@ -248,6 +268,7 @@ Your ideas/fixes/algorithms are more than welcome!
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|[Solution](./Solutions/302.md)| ? | O(m*n) | |Hard| DFS, BFS
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./Solutions/301.md)| ? | ? | |Hard| BFS
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./Solutions/300.md)| O(logn)|O(n) | |Medium| DP
+|---|[Good Luck]()|---| ---|--- | |---| --
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution](./Solutions/299.md)| O(n)|O(1) | |Easy| 
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|[Solution](./Solutions/298.md)| O(n)|O(n) | |Medium | Tree
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./Solutions/297.md)| O(n) | O(h) | |Hard| BFS
@@ -530,3 +551,11 @@ Your ideas/fixes/algorithms are more than welcome!
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./Solutions/3.md) | O(n) | O(k) | |Medium | HashMap, Sliding Window
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./Solutions/2.md) | O(max(m,n)) | O(1) | |Medium | LinkedList
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution]()| O(n)| O(n) |Linear S |Easy| HashMap 
+
+#######take care of questions
+
+671. Second Minimum Node In a Binary Tree #complicated the issue
+999. Available Captures for Rook #chess
+
+
+
